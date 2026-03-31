@@ -1,5 +1,5 @@
 """
-Django settings for SmartClass Monitor - Student Engagement System
+Django settings for PCU Hackthon - Student Engagement System
 """
 
 from pathlib import Path

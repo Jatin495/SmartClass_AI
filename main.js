@@ -1,4 +1,4 @@
-// SmartClass Monitor - Main JavaScript File
+// PCU Hackthon - Main JavaScript File
 
 
 

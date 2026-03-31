@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Django Admin Configuration
+PCU Hackthon - Django Admin Configuration
 """
 from django.contrib import admin
 from .models import (

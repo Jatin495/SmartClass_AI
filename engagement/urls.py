@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Engagement App URL Patterns
+PCU Hackthon - Engagement App URL Patterns
 All /api/ routes handled here.
 """
 

@@ -1,5 +1,5 @@
 /**
- * SmartClass Monitor - API Bridge
+ * PCU Hackthon - API Bridge
  * Connects frontend HTML/JS to Django REST backend.
  * All backend calls go through this module.
  */

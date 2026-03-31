@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Simplified Video Stream Service
+PCU Hackthon - Simplified Video Stream Service
 Uses the consolidated camera processor for all video operations.
 """
 

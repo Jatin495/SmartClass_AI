@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Consolidated Camera Processing
+PCU Hackthon - Consolidated Camera Processing
 Combines the best logic from working_camera.py and engagement/simple_detector.py
 """
 

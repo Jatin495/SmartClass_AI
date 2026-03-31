@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Database Models
+PCU Hackthon - Database Models
 Tables: Teacher, Student, Session, EngagementRecord, EmotionRecord, Alert, Attendance
 """
 

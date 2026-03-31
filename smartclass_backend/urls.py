@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Main URL Configuration
+PCU Hackthon - Main URL Configuration
 """
 from django.contrib import admin
 from django.urls import path, include, re_path

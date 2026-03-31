@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - REST API Views
+PCU Hackthon - REST API Views
 All endpoints that the frontend HTML/JS communicates with.
 """
 
@@ -2796,7 +2796,7 @@ def generate_report(request):
                 styles = getSampleStyleSheet()
                 story = []
 
-                story.append(Paragraph(f"SmartClass Monitor - {report.name}", styles['Title']))
+                story.append(Paragraph(f"PCU Hackthon - {report.name}", styles['Title']))
                 story.append(Paragraph(f"Generated: {timezone.now().strftime('%Y-%m-%d %H:%M:%S')}", styles['Normal']))
                 story.append(Spacer(1, 12))
 

@@ -1,9 +1,9 @@
-SmartClass Monitor - Project README
+PCU Hackthon - Project README
 ===================================
 
 1) Project Overview
 -------------------
-SmartClass Monitor is a classroom engagement monitoring web application.
+PCU Hackthon is a classroom engagement monitoring web application.
 It provides:
 - Teacher login/logout
 - Real-time classroom monitoring using camera feed

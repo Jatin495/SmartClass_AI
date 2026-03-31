@@ -1,5 +1,5 @@
 """
-SmartClass Monitor - Enhanced Face Recognition System
+PCU Hackthon - Enhanced Face Recognition System
 Identifies registered students during live monitoring using advanced face matching
 """
 
